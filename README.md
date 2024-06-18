@@ -40,3 +40,5 @@ npm test
 4. [jest API documents](http://facebook.github.io/jest/docs/api.html)
 5. [enzyme API documents](https://github.com/airbnb/enzyme/blob/master/docs/api)
 6. [使用 Jest + Enzyme 测试 React 应用](https://www.atatech.org/articles/74344)
+
+Lab by me
